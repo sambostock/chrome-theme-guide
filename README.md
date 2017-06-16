@@ -38,21 +38,21 @@ Colors for various portions of the UI are described under the `colors` property:
 }
 ```
 
-Property | Source ID Constant
---- | ---
-`frame` | `ThemeProperties::COLOR_FRAME`
-`frame_inactive` | `ThemeProperties::COLOR_FRAME_INACTIVE`
-`frame_incognito` | `ThemeProperties::COLOR_FRAME_INCOGNITO`
-`frame_incognito_inactive` | `ThemeProperties::COLOR_FRAME_INCOGNITO_INACTIVE`
-`toolbar` | `ThemeProperties::COLOR_TOOLBAR`
-`tab_text` | `ThemeProperties::COLOR_TAB_TEXT`
-`tab_background_text` | `ThemeProperties::COLOR_BACKGROUND_TAB_TEXT`
-`bookmark_text` | `ThemeProperties::COLOR_BOOKMARK_TEXT`
-`ntp_background` | `ThemeProperties::COLOR_NTP_BACKGROUND`
-`ntp_text` | `ThemeProperties::COLOR_NTP_TEXT`
-`ntp_link` | `ThemeProperties::COLOR_NTP_LINK`
-`ntp_header` | `ThemeProperties::COLOR_NTP_HEADER`
-`button_background` | `ThemeProperties::COLOR_BUTTON_BACKGROUND`
+Property | Source ID Constant | Notes
+--- | --- | --
+`frame` | `ThemeProperties::COLOR_FRAME` |
+`frame_inactive` | `ThemeProperties::COLOR_FRAME_INACTIVE` |
+`frame_incognito` | `ThemeProperties::COLOR_FRAME_INCOGNITO` |
+`frame_incognito_inactive` | `ThemeProperties::COLOR_FRAME_INCOGNITO_INACTIVE` |
+`toolbar` | `ThemeProperties::COLOR_TOOLBAR` |
+`tab_text` | `ThemeProperties::COLOR_TAB_TEXT` |
+`tab_background_text` | `ThemeProperties::COLOR_BACKGROUND_TAB_TEXT` |
+`bookmark_text` | `ThemeProperties::COLOR_BOOKMARK_TEXT` |
+`ntp_background` | `ThemeProperties::COLOR_NTP_BACKGROUND` |
+`ntp_text` | `ThemeProperties::COLOR_NTP_TEXT` |
+`ntp_link` | `ThemeProperties::COLOR_NTP_LINK` |
+`ntp_header` | `ThemeProperties::COLOR_NTP_HEADER` |
+`button_background` | `ThemeProperties::COLOR_BUTTON_BACKGROUND` | Appears unused
 
 ## Images
 
